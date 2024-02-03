@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LabelSetImagePreset layers="1">
+    <Layer index="0" labels="7">
+        <Label>
+            <property key="DICOM.0062.0002.0062.0004" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"0"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0005" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"Exterior"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0008" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SEMIAUTOMATIC"}]}</temporo_spatial_string>
+            </property>
+            <property key="center.coordinates" type="Point3dProperty">
+                <point x="0" y="0" z="0"/>
+            </property>
+            <property key="center.index" type="Point3dProperty">
+                <point x="0" y="0" z="0"/>
+            </property>
+            <property key="color" type="ColorProperty">
+                <color r="0" g="0" b="0"/>
+            </property>
+            <property key="layer" type="UIntProperty">
+                <unsigned value="0"/>
+            </property>
+            <property key="locked" type="BoolProperty">
+                <bool value="false"/>
+            </property>
+            <property key="name" type="StringProperty">
+                <string value="Exterior"/>
+            </property>
+            <property key="opacity" type="FloatProperty">
+                <float value="0"/>
+            </property>
+            <property key="value" type="UShortProperty">
+                <unsigned value="0"/>
+            </property>
+            <property key="visible" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+        </Label>
+        <Label>
+            <property key="DICOM.0062.0002.0062.0003.0008.0100" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"A-00004"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0003.0008.0102" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SRT"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0003.0008.0104" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"Physical Object"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0004" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"1"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0005" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"Needle"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0008" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SEMIAUTOMATIC"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.000F.0008.0100" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"A-30360"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.000F.0008.0102" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SRT"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.000F.0008.0104" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"Needle"}]}</temporo_spatial_string>
+            </property>
+            <property key="center.coordinates" type="Point3dProperty">
+                <point x="-76.518953323359995" y="84.793716430659998" z="0.63700358073330676"/>
+            </property>
+            <property key="center.index" type="Point3dProperty">
+                <point x="0" y="0" z="0"/>
+            </property>
+            <property key="color" type="ColorProperty">
+                <color r="1" g="0" b="0.0156862754"/>
+            </property>
+            <property key="layer" type="UIntProperty">
+                <unsigned value="0"/>
+            </property>
+            <property key="locked" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+            <property key="name" type="StringProperty">
+                <string value="Needle"/>
+            </property>
+            <property key="opacity" type="FloatProperty">
+                <float value="0.600000024"/>
+            </property>
+            <property key="value" type="UShortProperty">
+                <unsigned value="1"/>
+            </property>
+            <property key="visible" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+        </Label>
+        <Label>
+            <property key="DICOM.0062.0002.0062.0004" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"2"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0005" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"Tumor"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0008" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SEMIAUTOMATIC"}]}</temporo_spatial_string>
+            </property>
+            <property key="center.coordinates" type="Point3dProperty">
+                <point x="0" y="0" z="0"/>
+            </property>
+            <property key="center.index" type="Point3dProperty">
+                <point x="0" y="0" z="0"/>
+            </property>
+            <property key="color" type="ColorProperty">
+                <color r="0.184313729" g="0.823529422" b="1"/>
+            </property>
+            <property key="layer" type="UIntProperty">
+                <unsigned value="0"/>
+            </property>
+            <property key="locked" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+            <property key="name" type="StringProperty">
+                <string value="Tumor"/>
+            </property>
+            <property key="opacity" type="FloatProperty">
+                <float value="0.600000024"/>
+            </property>
+            <property key="value" type="UShortProperty">
+                <unsigned value="2"/>
+            </property>
+            <property key="visible" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+        </Label>
+        <Label>
+            <property key="DICOM.0062.0002.0062.0004" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"3"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0005" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"Needleholder"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0008" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SEMIAUTOMATIC"}]}</temporo_spatial_string>
+            </property>
+            <property key="center.coordinates" type="Point3dProperty">
+                <point x="0" y="0" z="0"/>
+            </property>
+            <property key="center.index" type="Point3dProperty">
+                <point x="0" y="0" z="0"/>
+            </property>
+            <property key="color" type="ColorProperty">
+                <color r="0.333333343" g="1" b="0.498039216"/>
+            </property>
+            <property key="layer" type="UIntProperty">
+                <unsigned value="0"/>
+            </property>
+            <property key="locked" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+            <property key="name" type="StringProperty">
+                <string value="Needleholder"/>
+            </property>
+            <property key="opacity" type="FloatProperty">
+                <float value="0.600000024"/>
+            </property>
+            <property key="value" type="UShortProperty">
+                <unsigned value="3"/>
+            </property>
+            <property key="visible" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+        </Label>
+        <Label>
+            <property key="DICOM.0062.0002.0062.0003.0008.0100" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"T-D0050"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0003.0008.0102" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SRT"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0003.0008.0104" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"Tissue"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0004" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"4"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0005" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"Tissue"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0008" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SEMIAUTOMATIC"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.000F.0008.0100" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"T-D0050"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.000F.0008.0102" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SRT"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.000F.0008.0104" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"Tissue"}]}</temporo_spatial_string>
+            </property>
+            <property key="center.coordinates" type="Point3dProperty">
+                <point x="-76.247816920276108" y="46.063691020011362" z="0.069639772177964687"/>
+            </property>
+            <property key="center.index" type="Point3dProperty">
+                <point x="0" y="0" z="0"/>
+            </property>
+            <property key="color" type="ColorProperty">
+                <color r="0.666666687" g="0.333333343" b="0"/>
+            </property>
+            <property key="layer" type="UIntProperty">
+                <unsigned value="0"/>
+            </property>
+            <property key="locked" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+            <property key="name" type="StringProperty">
+                <string value="Tissue"/>
+            </property>
+            <property key="opacity" type="FloatProperty">
+                <float value="0.600000024"/>
+            </property>
+            <property key="value" type="UShortProperty">
+                <unsigned value="4"/>
+            </property>
+            <property key="visible" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+        </Label>
+        <Label>
+            <property key="DICOM.0062.0002.0062.0004" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"5"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0005" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"PunctureChannel"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0008" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SEMIAUTOMATIC"}]}</temporo_spatial_string>
+            </property>
+            <property key="center.coordinates" type="Point3dProperty">
+                <point x="47.701228916643629" y="47.369178652763281" z="48.876249447459998"/>
+            </property>
+            <property key="center.index" type="Point3dProperty">
+                <point x="0" y="0" z="0"/>
+            </property>
+            <property key="color" type="ColorProperty">
+                <color r="0.68235296" g="0.627451003" b="0.745098054"/>
+            </property>
+            <property key="layer" type="UIntProperty">
+                <unsigned value="0"/>
+            </property>
+            <property key="locked" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+            <property key="name" type="StringProperty">
+                <string value="PunctureChannel"/>
+            </property>
+            <property key="opacity" type="FloatProperty">
+                <float value="0.600000024"/>
+            </property>
+            <property key="value" type="UShortProperty">
+                <unsigned value="5"/>
+            </property>
+            <property key="visible" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+        </Label>
+        <Label>
+            <property key="DICOM.0062.0002.0062.0004" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"6"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0005" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"Air"}]}</temporo_spatial_string>
+            </property>
+            <property key="DICOM.0062.0002.0062.0008" type="TemporoSpatialStringProperty">
+                <temporo_spatial_string>{"values":[{"z":0, "t":0, "value":"SEMIAUTOMATIC"}]}</temporo_spatial_string>
+            </property>
+            <property key="center.coordinates" type="Point3dProperty">
+                <point x="47.701228916643629" y="47.369178652763281" z="48.876249447459998"/>
+            </property>
+            <property key="center.index" type="Point3dProperty">
+                <point x="0" y="0" z="0"/>
+            </property>
+            <property key="color" type="ColorProperty">
+                <color r="0" g="0" b="0"/>
+            </property>
+            <property key="layer" type="UIntProperty">
+                <unsigned value="0"/>
+            </property>
+            <property key="locked" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+            <property key="name" type="StringProperty">
+                <string value="Air"/>
+            </property>
+            <property key="opacity" type="FloatProperty">
+                <float value="0.600000024"/>
+            </property>
+            <property key="value" type="UShortProperty">
+                <unsigned value="6"/>
+            </property>
+            <property key="visible" type="BoolProperty">
+                <bool value="true"/>
+            </property>
+        </Label>
+    </Layer>
+</LabelSetImagePreset>
